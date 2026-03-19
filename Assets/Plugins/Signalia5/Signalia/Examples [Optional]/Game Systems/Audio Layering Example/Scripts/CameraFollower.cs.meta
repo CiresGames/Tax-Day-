@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ea63216de5ae3c349bc3c8d2ccddf8f4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Examples [Optional]/Game Systems/Audio
+    Layering Example/Scripts/CameraFollower.cs
+  uploadId: 865820

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2b8cef3604cdc66469197abb50885847
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Examples [Optional]/Input Wrapper Example/Simple
+    Movement Cube/SimpleCubeController.cs
+  uploadId: 865820

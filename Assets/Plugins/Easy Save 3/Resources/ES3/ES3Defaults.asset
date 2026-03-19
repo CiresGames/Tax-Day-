@@ -39,6 +39,9 @@ MonoBehaviour:
     - Assembly-CSharp-firstpass
     - Autodesk.Fbx
     - Autodesk.Fbx.BuildTestAssets
+    - Lofelt.NiceVibrations
+    - Lofelt.NiceVibrations.Demo
+    - MoreMountains.Tools
     - VInspector
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0

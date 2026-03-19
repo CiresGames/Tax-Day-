@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7d31737c3643f4d4e89026e7977db889
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Game Systems/Inline Script/Utils/Boilerplate/ISB_FUNCTION.cs
+  uploadId: 865820

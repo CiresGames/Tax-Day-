@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9cb4481c654fa35438a772007bd70cb7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Game Systems/Movement System/Core/Physics
+    Authority/PhysicsConstraint.cs
+  uploadId: 865820

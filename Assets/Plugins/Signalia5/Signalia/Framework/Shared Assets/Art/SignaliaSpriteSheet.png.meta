@@ -1,0 +1,837 @@
+fileFormatVersion: 2
+guid: 80f48c252b08d4327aa8616d3b19bbc3
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Framework/Shared Assets/Art/SignaliaSpriteSheet.png
+  uploadId: 865820
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3355
+        width: 553
+        height: 553
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 50, z: 50, w: 50}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b936acdb32d14d5da71514e770a99a1
+      internalID: 1435419924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet1
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3706
+        width: 199
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a617cace128904016b338f675166c1ad
+      internalID: 1178949256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2972
+        width: 553
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 125, z: 100, w: 100}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e63b46c32ae4eb791e374fa129620c
+      internalID: 77076378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet3
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2979
+        width: 323
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f10a3273adca44299229062694a9d34
+      internalID: 513731542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2375
+        width: 553
+        height: 553
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 50, z: 50, w: 50}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f107a0c0c6db28d4a883e3e9f9ffe877
+      internalID: 1440990010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet6
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2508
+        width: 226
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905951c8cd2f7814e97cdb8c6fd57a0c
+      internalID: -1600814855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet7
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 3719
+        width: 365
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a884a6ef7f28dbe4ba4b4df3dd966a41
+      internalID: -657847473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet8
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 3503
+        width: 367
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37fde32293423741982e65e9e654f46
+      internalID: -57179409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet9
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 3186
+        width: 178
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba032d60d90f1c547b4f6babdd342efc
+      internalID: -1658339900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet10
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 2992
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb3d74e0a31b704ab6d8c05653cb1cf
+      internalID: 84858985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1968
+        width: 959
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 50, y: 100, z: 50, w: 50}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0122242b790b41342bd5c05eb7fa5fb6
+      internalID: -831219602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet12
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 167
+        width: 343
+        height: 788
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbdb533e052ace4e8b80ffa0534c841
+      internalID: 1886892682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet4
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 2509
+        width: 387
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b4380f734b84b44b3301d8aa746150
+      internalID: -1559129352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet13
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 3701
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46438f737c605074ea0592ece4ecb47c
+      internalID: 813382626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet15
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 3575
+        width: 403
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6494dbb23c3b1bd4aaa33c23043a64f3
+      internalID: 1270541541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet16
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 3590
+        width: 373
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 100, z: 100, w: 100}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d40f7b5195234d499fd7287899e8c0d
+      internalID: -281510211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet14
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 3345
+        width: 319
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9c52933f381894a9319414039c254f
+      internalID: -1625164528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet22
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1479
+        width: 269
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb3e692b1d95ab439460d85957548e1
+      internalID: -284544095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet23
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 2887
+        width: 872
+        height: 1128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a97095c22991347a3f9aaad3cba75b
+      internalID: 1367506345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 183
+        width: 1507
+        height: 1010
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4d5d0b7fc5d18469e531d7615f5d2b
+      internalID: 1539870845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet17
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 1085
+        width: 490
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5c03780e92f6142bc59cbc7779a04a
+      internalID: -2081477306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet18
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 129
+        width: 337
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dee03864314c87418630cbc92db1632
+      internalID: -1994022088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet19
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 519
+        width: 365
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c646f23a9c6dadc48b80d962b234d5d7
+      internalID: -929308194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet20
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 114
+        width: 213
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a935859e21b51b4b80315c74a92b5bb
+      internalID: 1595556079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet21
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 936
+        width: 227
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed367c5c806a4642b945bc31e3b0e60
+      internalID: -32903315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1527
+        width: 385
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f936349bdb793b2438b52014f6725996
+      internalID: 1713910590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1943
+        width: 381
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 50, y: 75, z: 75, w: 50}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320e3f9967774cc4b91e0b6f457cee07
+      internalID: 514778234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignaliaSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1490
+        width: 421
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 175, y: 175, z: 175, w: 175}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201c99ae95c950243ae46dde9acdc1d4
+      internalID: -444150051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SignaliaSpriteSheet0: 1435419924
+      SignaliaSpriteSheet1: 1178949256
+      SignaliaSpriteSheet10: 84858985
+      SignaliaSpriteSheet11: -831219602
+      SignaliaSpriteSheet12: 1886892682
+      SignaliaSpriteSheet13: 813382626
+      SignaliaSpriteSheet14: -1625164528
+      SignaliaSpriteSheet15: 1270541541
+      SignaliaSpriteSheet16: -281510211
+      SignaliaSpriteSheet17: -2081477306
+      SignaliaSpriteSheet18: -1994022088
+      SignaliaSpriteSheet19: -929308194
+      SignaliaSpriteSheet2: 77076378
+      SignaliaSpriteSheet20: 1595556079
+      SignaliaSpriteSheet21: -32903315
+      SignaliaSpriteSheet22: -284544095
+      SignaliaSpriteSheet23: 1367506345
+      SignaliaSpriteSheet24: 1539870845
+      SignaliaSpriteSheet3: 513731542
+      SignaliaSpriteSheet4: -1559129352
+      SignaliaSpriteSheet5: 1440990010
+      SignaliaSpriteSheet6: -1600814855
+      SignaliaSpriteSheet7: -657847473
+      SignaliaSpriteSheet8: -57179409
+      SignaliaSpriteSheet9: -1658339900
+      SignaliaSpriteSheet_0: 1713910590
+      SignaliaSpriteSheet_1: 514778234
+      SignaliaSpriteSheet_10: -812627362
+      SignaliaSpriteSheet_11: 1543120307
+      SignaliaSpriteSheet_12: 1753366717
+      SignaliaSpriteSheet_13: 176272525
+      SignaliaSpriteSheet_14: 922076125
+      SignaliaSpriteSheet_15: -1427433930
+      SignaliaSpriteSheet_16: 1250507107
+      SignaliaSpriteSheet_17: -394139308
+      SignaliaSpriteSheet_2: -784721834
+      SignaliaSpriteSheet_3: -697722178
+      SignaliaSpriteSheet_4: -23936966
+      SignaliaSpriteSheet_5: -998584481
+      SignaliaSpriteSheet_6: 1490239561
+      SignaliaSpriteSheet_7: -444150051
+      SignaliaSpriteSheet_8: -259989894
+      SignaliaSpriteSheet_9: -1113660219
+      corea_examples_0: 1435419924
+      corea_examples_1: 1178949256
+      corea_examples_2: 77076378
+      corea_examples_3: 513731542
+      corea_examples_4: 2131589267
+      corea_examples_5: -834776239
+      corea_examples_6: 646191376
+      signalia_art_10: 84858985
+      signalia_art_11: -831219602
+      signalia_art_12: 1886892682
+      signalia_art_13: 813382626
+      signalia_art_14: -1625164528
+      signalia_art_15: 1270541541
+      signalia_art_16: -281510211
+      signalia_art_17: -2081477306
+      signalia_art_18: -1994022088
+      signalia_art_19: -929308194
+      signalia_art_20: 1595556079
+      signalia_art_21: -32903315
+      signalia_art_22: -284544095
+      signalia_art_23: 1367506345
+      signalia_art_24: 1539870845
+      signalia_art_4: -1559129352
+      signalia_art_5: 1440990010
+      signalia_art_6: -1600814855
+      signalia_art_7: -657847473
+      signalia_art_8: -57179409
+      signalia_art_9: -1658339900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

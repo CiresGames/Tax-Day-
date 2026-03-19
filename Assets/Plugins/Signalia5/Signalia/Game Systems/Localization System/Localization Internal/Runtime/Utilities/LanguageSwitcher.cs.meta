@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 43c40b752e55bb748b01372bfef80138
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: ec73569bc4caf2240a81f40f25867d0b, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Game Systems/Localization System/Localization
+    Internal/Runtime/Utilities/LanguageSwitcher.cs
+  uploadId: 865820

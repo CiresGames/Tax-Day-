@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 166d27397d80e824aa1e0b10056a2447
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Examples [Optional]/Shared Example
+    Assets/Example Objects/Collectible-Coin.prefab
+  uploadId: 865820

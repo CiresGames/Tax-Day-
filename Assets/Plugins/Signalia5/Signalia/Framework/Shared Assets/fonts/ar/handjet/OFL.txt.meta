@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0f0a068a3323aa64ba0baab234109fa1
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Framework/Shared Assets/fonts/ar/handjet/OFL.txt
+  uploadId: 865820

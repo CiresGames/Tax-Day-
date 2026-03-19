@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8e2f5de4bc883e4e9eb4d7db7d3d77e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Game Systems/Localization System/Localization
+    External/LOCBOOK_EXTRACTION_GUIDE.md
+  uploadId: 865820

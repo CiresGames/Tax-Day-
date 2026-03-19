@@ -1,0 +1,132 @@
+{
+  "packages": [
+    {
+      "package": "SIGS_AL",
+      "title": "Audio Layering",
+      "description": "Create dynamic, adaptive soundscapes with multiple audio layers that seamlessly blend and transition. Perfect for ambient music, environmental sounds, and responsive audio that reacts to gameplay events.",
+      "path": "Audio Layering",
+      "headerImage": "SIGS_EDITOR_ART_HEADER_AUDIOLAYERING.png",
+      "assetStoreURL": ""
+    },
+    {
+      "package": "SIGS_DG",
+      "title": "Dialogue System",
+      "description": "Build branching conversations and interactive storytelling with a powerful dialogue tree system. Features character portraits, text animations, choice branching, and easy-to-use visual editors.",
+      "path": "Dialogue System",
+      "headerImage": "SIGS_EDITOR_ART_HEADER_DIALOGUE.png",
+      "assetStoreURL": ""
+    },
+    {
+      "package": "SIGS_INV",
+      "title": "Inventory System",
+      "description": "Complete inventory management solution with drag-and-drop functionality, item categories, equipment slots, and save/load integration. Includes visual editors for easy item creation and management.",
+      "path": "Inventory System",
+      "headerImage": "SIGS_EDITOR_ART_HEADER_INVENTORY.png",
+      "assetStoreURL": ""
+    },
+    {
+      "package": "SIGS_TUT",
+      "title": "Tutorial System",
+      "description": "Deprecated. The Tutorial System will be removed in a future release. Existing projects may continue to use it, but new integrations are discouraged.",
+      "path": "Tutorial System",
+      "headerImage": "SIGS_EDITOR_ART_HEADER_TUTORIAL.png",
+      "assetStoreURL": ""
+    },
+    {
+      "package": "SIGS_LS",
+      "title": "Localization System",
+      "description": "Reach global audiences with comprehensive localization tools. Supports text, audio, images, and UI elements across multiple languages with easy translation management and runtime language switching.",
+      "path": "Localization System",
+      "headerImage": "SIGS_EDITOR_ART_HEADER_LOCALIZATION.png",
+      "assetStoreURL": ""
+    },
+    {
+      "package": "SIGS_LSS",
+      "title": "Loading Screen System",
+      "description": "Professional loading screens with customizable progress bars, background images, tips, and smooth transitions. Includes fake loading simulation and click-to-progress options for better user experience.",
+      "path": "Loading Screen",
+      "headerImage": "SIGS_EDITOR_ART_HEADER_LOADINGSCREEN.png",
+      "assetStoreURL": ""
+    },
+    {
+      "package": "SIGS_RC",
+      "title": "Resource Caching System",
+      "description": "Boost performance with intelligent resource management. Automatically caches frequently used assets, reduces loading times, and optimizes memory usage for smoother gameplay experiences.",
+      "path": "Resource Caching",
+      "headerImage": "SIGS_EDITOR_ART_HEADER_RESOURCE_CACHING.png",
+      "assetStoreURL": ""
+    },
+    {
+      "package": "SIGS_PS",
+      "title": "Pooling System",
+      "description": "Optimize performance with smart object pooling for frequently spawned objects like bullets, particles, and UI elements. Reduces garbage collection and improves frame rates in busy scenes.",
+      "path": "Pooling System",
+      "headerImage": "SIGS_EDITOR_ART_HEADER_POOLING.png",
+      "assetStoreURL": ""
+    },
+    {
+      "package": "SIGS_SAVE",
+      "title": "Save System",
+      "description": "Robust save/load functionality with encryption support, automatic backups, and flexible data storage. Save game progress, settings, and custom data with simple API calls and built-in error handling.",
+      "path": "Save System",
+      "headerImage": "SIGS_EDITOR_ART_HEADER_GAMESAVING.png",
+      "assetStoreURL": ""
+    },
+    {
+      "package": "SIGS_CMN",
+      "title": "Common Mechanics",
+      "description": "A toolbox for mini-systems found in lots of games. Great kickstart to your project.",
+      "path": "Common Mechanics",
+      "headerImage": "SIGS_EDITOR_ART_HEADER_COMMON_MECHANICS.png",
+      "assetStoreURL": ""
+    },
+    {
+      "package": "SIGS_MVM",
+      "title": "Movement System",
+      "description": "Advanced movement system supporting both 3D and 2D physics with raycasting-based ground detection and collision. Features tighter, more responsive controls and an enabled approach to gameplay mechanics for precise character movement and enhanced player agency.",
+      "path": "Movement System",
+      "headerImage": "SIGS_EDITOR_ART_HEADER_MOVEMENT_SYSTEM.png",
+      "assetStoreURL": ""
+    },
+    {
+      "package": "SIGS_CAM",
+      "title": "Camera System",
+      "description": "Professional camera controller for 3D characters with first-person and third-person modes. Features adaptive collision detection, smooth camera movement, character rotation integration, and configurable input handling. Works standalone or integrates with movement systems.",
+      "path": "Camera System",
+      "headerImage": "SIGS_EDITOR_ART_HEADER_CAMERA_SYSTEM.png",
+      "assetStoreURL": ""
+    },
+    {
+      "package": "SIGS_NOT",
+      "title": "Notification System",
+      "description": "Simple notification system with queued system messages and floating burner notifications. System messages display in sequence with UIView animations, while burners float upward and disappear. Perfect for player feedback, achievements, and status updates.",
+      "path": "Notification System",
+      "headerImage": "SIGS_EDITOR_ART_HEADER_NOTIFICATION_SYSTEM.png",
+      "assetStoreURL": ""
+    },
+    {
+      "package": "SIGS_HLTH",
+      "title": "Health System",
+      "description": "Decoupled health system with object health management, damage handling, death logic, and system integration. Uses dedicated Health Radio for predictable performance and system isolation. Supports knockback, invulnerability, UI binding, and team-based damage filtering.",
+      "path": "Health System",
+      "headerImage": "SIGS_EDITOR_ART_HEADER_HEALTH_SYSTEM.png",
+      "assetStoreURL": ""
+    },
+    {
+      "package": "SIGS_ACH",
+      "title": "Achievement System",
+      "description": "Simple achievement tracking with ScriptableObject-driven definitions, Save System persistence, optional notifications, and a backend adapter hook. Designed to integrate cleanly with Signalia's pipelines (SIGS, GameSaving, Notifications).",
+      "path": "Achievement System",
+      "headerImage": "SIGS_EDITOR_ART_HEADER_ACHIEVEMENT_SYSTEM.png",
+      "assetStoreURL": ""
+    },
+    {
+      "package": "SIGS_ENT",
+      "title": "Entity System",
+      "description": "The entity system is a system that combines Health and Movement and AI to turn an object into an entity or a character that has states (living, dead, idle, moving, etc...) and eventually scales into other entity related stuff.",
+      "path": "Entity System",
+      "headerImage": "SIGS_EDITOR_ART_HEADER_ENTITY_SYSTEM.png",
+      "assetStoreURL": ""
+    }
+  ]
+}

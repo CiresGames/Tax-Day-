@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 533a06595a02b7c4ebcb22cff7f98d19
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 9eefa1e21c2c51c479934050e825c098, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Game Systems/Dialogue System/Data/DialogueBook.cs
+  uploadId: 865820

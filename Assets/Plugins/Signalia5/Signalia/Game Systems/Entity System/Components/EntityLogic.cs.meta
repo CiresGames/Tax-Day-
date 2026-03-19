@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3908a87aeb5da4e1d8c4ab5e1a15d09e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 736b584c93f3409428d6aa2d1599fb9a, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Game Systems/Entity System/Components/EntityLogic.cs
+  uploadId: 865820

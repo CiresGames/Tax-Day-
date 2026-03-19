@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9bd34da91acfd4e3f9bd1d13751d2f33
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Framework/Editor/Windows/PackageManagerWindow.cs
+  uploadId: 865820

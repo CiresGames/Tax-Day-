@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4536a9d4450260342a88f9cdfbffa7ad
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Framework/Shared Assets/fonts/en/Caveat_Brush/OFL.txt
+  uploadId: 865820

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: daf838e00cf51ef4ba1a8580b8f1b702
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 1cdfe89a48e7a44ca8b313f81d6783b7, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Utilities/Tools/Animation/AnimationAsset.cs
+  uploadId: 865820

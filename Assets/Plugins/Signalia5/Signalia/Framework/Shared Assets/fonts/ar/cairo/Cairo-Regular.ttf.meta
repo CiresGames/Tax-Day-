@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: baf7a8347f867054ba3be8f263c23225
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cairo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 590ce1455c5661a4884cb87ee45f5dbf, type: 3}
+  - {fileID: 12800000, guid: 536229ac85c75624fb92e1be109fec72, type: 3}
+  - {fileID: 12800000, guid: 52dec2f9dbd5cad4391b6d9c1fbfddbc, type: 3}
+  - {fileID: 12800000, guid: 28ff36c16d3837b4b8518671e10b87d2, type: 3}
+  - {fileID: 12800000, guid: e6632c64d54e24140af334ef5eb565be, type: 3}
+  - {fileID: 12800000, guid: 093a7ea26c3d3124eacac7c099fee2a1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Framework/Shared Assets/fonts/ar/cairo/Cairo-Regular.ttf
+  uploadId: 865820

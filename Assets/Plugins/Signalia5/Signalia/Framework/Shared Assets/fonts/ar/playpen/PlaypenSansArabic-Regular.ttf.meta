@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 71be960417f32ea4bb0016a79948b29c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Playpen Sans Arabic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7078eacb92247a74c8977fbabcbd429f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Framework/Shared Assets/fonts/ar/playpen/PlaypenSansArabic-Regular.ttf
+  uploadId: 865820

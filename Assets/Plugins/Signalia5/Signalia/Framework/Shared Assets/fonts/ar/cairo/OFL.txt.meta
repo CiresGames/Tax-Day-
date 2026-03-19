@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2febcd7175782244c9480776d1335193
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Framework/Shared Assets/fonts/ar/cairo/OFL.txt
+  uploadId: 865820

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c20caffcf2b3c3043a0f89e8a3ab9791
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Game Systems/Localization System/Localization
+    Internal/Editor/LingramiaDownloader.cs
+  uploadId: 865820

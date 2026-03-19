@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0ec0b5456a6bb3f4f82940224e1f5db6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Game Systems/Localization System/Localization
+    Internal/Editor/TMPTextLocalizationContextMenu.cs
+  uploadId: 865820

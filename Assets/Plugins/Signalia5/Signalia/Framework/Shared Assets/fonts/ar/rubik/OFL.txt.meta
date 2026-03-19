@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f7b23282b722c224c8fb45ea8d46cc61
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Framework/Shared Assets/fonts/ar/rubik/OFL.txt
+  uploadId: 865820

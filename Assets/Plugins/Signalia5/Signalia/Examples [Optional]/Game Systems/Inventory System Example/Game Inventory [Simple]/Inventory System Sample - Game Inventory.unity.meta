@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 081f72d0d3a686b4aa282e38a15ec286
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Examples [Optional]/Game Systems/Inventory
+    System Example/Game Inventory [Simple]/Inventory System Sample - Game Inventory.unity
+  uploadId: 865820

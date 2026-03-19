@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 33e5a3c59604f03429a19a60ab095cf0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Framework/Shared Assets/fonts/ar/handjet/Handjet-VariableFont_ELGR,ELSH,wght_SDF.asset
+  uploadId: 865820

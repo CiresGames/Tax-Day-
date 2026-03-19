@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9527bdcb74ea6e54d841871418e5a27a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 3d3c2d29a8533b144a0bfd422b15e18c, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Radio/Data Asset/AudioMixerAsset.cs
+  uploadId: 865820

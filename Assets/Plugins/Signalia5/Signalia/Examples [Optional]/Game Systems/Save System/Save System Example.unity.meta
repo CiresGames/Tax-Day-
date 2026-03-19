@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2bf1097236621e245abd800f06ac8ba0
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Examples [Optional]/Game Systems/Save
+    System/Save System Example.unity
+  uploadId: 865820

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3068f4d9574f5194aafd7cff468dc792
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Framework/Shared Assets/Materials/Signalia
+    Prototyping/SignaliaProto_Red.mat
+  uploadId: 865820

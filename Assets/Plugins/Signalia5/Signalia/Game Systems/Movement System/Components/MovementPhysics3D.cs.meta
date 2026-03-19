@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b0f27bfd83fffdd4aa78f466fad41b8c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 2b2d25649a5077c4a8ea721429150964, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Game Systems/Movement System/Components/MovementPhysics3D.cs
+  uploadId: 865820

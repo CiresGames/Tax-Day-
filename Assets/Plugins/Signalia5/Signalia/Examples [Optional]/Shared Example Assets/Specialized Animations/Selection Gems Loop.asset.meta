@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c9e1992bc90ff49388328c72fd5ca42c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Examples [Optional]/Shared Example
+    Assets/Specialized Animations/Selection Gems Loop.asset
+  uploadId: 865820

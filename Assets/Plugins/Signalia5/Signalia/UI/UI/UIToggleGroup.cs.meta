@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a0670d72a1ccbf341aaef44dad37cbaf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 7eaab92751a9979489440ab86ef3c6ca, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/UI/UI/UIToggleGroup.cs
+  uploadId: 865820

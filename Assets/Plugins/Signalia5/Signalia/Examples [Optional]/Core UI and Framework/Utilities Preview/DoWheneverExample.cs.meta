@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1d27e1ab3af2fd142a9bbb7060c35c32
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Examples [Optional]/Core UI and Framework/Utilities
+    Preview/DoWheneverExample.cs
+  uploadId: 865820

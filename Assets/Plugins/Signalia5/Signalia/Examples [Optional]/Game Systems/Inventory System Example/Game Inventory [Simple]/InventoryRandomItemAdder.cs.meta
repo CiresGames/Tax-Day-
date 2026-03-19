@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: df2400c845e82084196716cfdffc7514
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Examples [Optional]/Game Systems/Inventory
+    System Example/Game Inventory [Simple]/InventoryRandomItemAdder.cs
+  uploadId: 865820

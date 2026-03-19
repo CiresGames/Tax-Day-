@@ -1,0 +1,186 @@
+GridBackground {
+    --grid-background-color: #222222;
+    --line-color: rgba(80, 80, 80, 0.4);
+    --thick-line-color: rgba(40, 40, 40, 0.6);
+    --spacing: 20;
+}
+
+/* Graph View */
+.entity-logic-graph-view {
+    flex-grow: 1;
+    min-width: 300px;
+}
+
+/* Warning Label */
+.warning-label {
+    color: #e2a611;
+    bottom: 5;
+    left: 5;
+    font-size: 11px;
+    -unity-text-align: lower-left;
+    position: absolute;
+}
+
+/* Nodes */
+.entity-logic-node {
+    min-width: 250px;
+    min-height: 50px;
+    width: auto;
+    height: auto;
+}
+
+.state-node {
+    background-color: rgba(60, 60, 60, 0.95);
+    border-radius: 12px;
+    padding: 12px;
+}
+
+.state-node-name {
+    font-size: 12px;
+    color: rgba(255, 211, 211, 0.9);
+}
+
+.state-node-summary {
+    margin-top: 6px;
+    padding-top: 6px;
+    border-top-width: 1px;
+    border-top-color: rgba(255, 255, 255, 0.08);
+}
+
+.state-node-section-header {
+    -unity-font-style: bold;
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.85);
+    margin: 6px;
+}
+
+.state-node-section-list {
+    margin-bottom: 8px;
+}
+
+.state-node-section-item {
+    font-size: 10px;
+    color: rgba(220, 220, 220, 0.9);
+    margin: 6px;
+    white-space: normal;
+    border-color: #707070;
+    border-width: 1px;
+    border-radius: 2px;
+    padding: 6px;
+}
+
+.state-node-section-empty {
+    font-size: 10px;
+    color: rgba(160, 160, 160, 0.8);
+    margin-left: 6px;
+}
+
+.state-node-port {
+    font-size: 10px;
+}
+
+/* Toolbar */
+.main-toolbar {
+    height: 28px;
+    padding: 2px;
+    border-bottom-width: 2px;
+    border-bottom-color: rgba(77, 77, 77, 1);
+}
+
+.toolbar-label {
+    -unity-text-align: middle-left;
+    padding-left: 8px;
+    padding-right: 4px;
+    margin-top: 0;
+    margin-bottom: 0;
+    -unity-font-style: normal;
+}
+
+.toolbar-spacer {
+    flex-grow: 1;
+}
+
+/* Secondary Toolbar */
+.secondary-toolbar-container {
+    flex-direction: column;
+}
+
+.secondary-toolbar {
+    background-color: rgba(38, 38, 38, 1);
+    height: 50px;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-bottom-width: 2px;
+    border-bottom-color: rgba(77, 77, 77, 1);
+}
+
+.secondary-toolbar-shadow {
+    background-color: rgba(0, 0, 0, 0.25);
+    height: 3px;
+    width: 100%;
+}
+
+.secondary-toolbar Button {
+    background-color: rgba(30, 30, 30, 1);
+    border-color: rgba(50, 50, 50, 1);
+    color: rgba(200, 200, 200, 1);
+    min-width: 80px;
+    height: 32px;
+    border-width: 1px;
+    border-radius: 2px;
+}
+
+.secondary-toolbar Button:hover {
+    background-color: rgba(40, 40, 40, 1);
+    border-color: rgba(60, 60, 60, 1);
+}
+
+.secondary-toolbar Button:active {
+    background-color: rgba(25, 25, 25, 1);
+    border-color: rgba(45, 45, 45, 1);
+}
+
+/* Split View */
+.split-view {
+    flex-grow: 1;
+}
+
+/* Inspector Panel */
+.node-inspector-panel {
+    min-width: 350px;
+    background-color: rgba(56, 56, 56, 1);
+    border-left-width: 1px;
+    border-left-color: rgba(77, 77, 77, 1);
+    flex-direction: column;
+}
+
+.inspector-header {
+    background-color: rgba(46, 46, 46, 1);
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    flex-direction: row;
+    align-items: center;
+    border-bottom-width: 1px;
+    border-bottom-color: rgba(77, 77, 77, 1);
+}
+
+.inspector-header Label {
+    -unity-font-style: bold;
+    font-size: 13px;
+    color: rgba(230, 230, 230, 1);
+}
+
+.inspector-content {
+    flex-grow: 1;
+    padding: 10px;
+}
+
+.inspector-placeholder {
+    white-space: normal;
+    color: rgba(179, 179, 179, 1);
+    padding-top: 10px;
+}

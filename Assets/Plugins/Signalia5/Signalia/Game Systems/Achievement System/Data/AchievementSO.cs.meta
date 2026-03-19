@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b63516ed748e34614bca9c6bb1a9ed5a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 025b81ec2c2471445b65d5fb8f8ff477, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Game Systems/Achievement System/Data/AchievementSO.cs
+  uploadId: 865820

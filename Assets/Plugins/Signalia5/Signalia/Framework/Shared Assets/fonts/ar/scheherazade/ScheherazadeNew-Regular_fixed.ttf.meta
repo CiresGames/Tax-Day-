@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: bb634953a7d8ba442afb586295c0deb4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Scheherazade New
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8f09293d69b0d90469dec5ff6b1f71cc, type: 3}
+  - {fileID: 12800000, guid: 6c30f0f8384356e4a8974b66d68f00c5, type: 3}
+  - {fileID: 12800000, guid: 0534c65c4ca708047bf4cf1decec4bba, type: 3}
+  - {fileID: 12800000, guid: 34efbd0d9e2206b4fa7dfa077018a91f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Framework/Shared Assets/fonts/ar/scheherazade/ScheherazadeNew-Regular_fixed.ttf
+  uploadId: 865820

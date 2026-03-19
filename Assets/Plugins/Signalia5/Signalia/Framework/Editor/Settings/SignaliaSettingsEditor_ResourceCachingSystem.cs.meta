@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3a6148246881643cea435d00d8f44685
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Framework/Editor/Settings/SignaliaSettingsEditor_ResourceCachingSystem.cs
+  uploadId: 865820

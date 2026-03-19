@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30d30a5fbca24104a981e53bd0a24421
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Examples [Optional]/Shared Example
+    Assets/Example Objects/HelpboxUI.prefab
+  uploadId: 865820

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a80ae6bbcb3973c4c860661b2dc28cae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 8f9350788e6c1294884851c7df487d81, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Game Systems/Inventory System/Components/GameItemGrid.cs
+  uploadId: 865820

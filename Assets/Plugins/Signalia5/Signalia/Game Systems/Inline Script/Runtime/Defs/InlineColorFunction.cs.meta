@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1f55d0e6bd82b1e41b15a43054db409e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Game Systems/Inline Script/Runtime/Defs/InlineColorFunction.cs
+  uploadId: 865820

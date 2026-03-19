@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 156539a1198169e428d0931b2d928219
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Examples [Optional]/Game Examples Examples/Signalia
+    - Cube World/Signalia - Cube World.unity
+  uploadId: 865820

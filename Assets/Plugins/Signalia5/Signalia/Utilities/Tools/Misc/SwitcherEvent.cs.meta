@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 24709cfd71e09534098e90bef2762fad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: aa8e5f6c4f7be442ea2cdfc8c488b870, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Utilities/Tools/Misc/SwitcherEvent.cs
+  uploadId: 865820

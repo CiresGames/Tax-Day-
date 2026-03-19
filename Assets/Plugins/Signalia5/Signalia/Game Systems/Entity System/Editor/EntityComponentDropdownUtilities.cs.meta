@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3f100e7aef23b81469dce5957d9f2e34
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Game Systems/Entity System/Editor/EntityComponentDropdownUtilities.cs
+  uploadId: 865820

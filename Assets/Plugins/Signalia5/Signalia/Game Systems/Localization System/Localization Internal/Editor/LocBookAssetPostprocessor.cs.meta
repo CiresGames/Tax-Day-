@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6db971278dce6754bb95a5466f0e94ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Game Systems/Localization System/Localization
+    Internal/Editor/LocBookAssetPostprocessor.cs
+  uploadId: 865820

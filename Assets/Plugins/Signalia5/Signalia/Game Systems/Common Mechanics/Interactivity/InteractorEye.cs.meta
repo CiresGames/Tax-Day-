@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7fd708c3ba4bef84b89530f3abfc881f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: a0894a2786259cb40a94652ae69c6de1, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Game Systems/Common Mechanics/Interactivity/InteractorEye.cs
+  uploadId: 865820

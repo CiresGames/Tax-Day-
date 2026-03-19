@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c880a96f529e2114e8b794ad57ed095b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Examples [Optional]/Game Systems/Simple
+    Loading Icon/Spinning Crystal.prefab
+  uploadId: 865820

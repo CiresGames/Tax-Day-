@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3a74be0e1a9e31442b4f52c6f182cb89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311320
+  packageName: 'Signalia Game Engine: GUI & Modular Gameplay Framework'
+  packageVersion: 5.1.0
+  assetPath: Assets/AHAKuo Creations/Signalia/Game Systems/Inline Script/Runtime/Defs/InlineAudioSourceFunction.cs
+  uploadId: 865820
