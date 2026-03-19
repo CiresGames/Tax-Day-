@@ -39,6 +39,7 @@ MonoBehaviour:
     - Assembly-CSharp-firstpass
     - Autodesk.Fbx
     - Autodesk.Fbx.BuildTestAssets
+    - VInspector
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1
