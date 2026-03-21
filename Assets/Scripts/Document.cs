@@ -5,14 +5,14 @@ using UnityEngine;
 public class Document : MonoBehaviour
 {
     [SerializeField] DocumentData _documentData;
-    [SerializeField] List<Answer> answers;
+    [SerializeField] List<Question> answers;
 
     private void Start()
     {
         Initialize(answers);
     }
 
-    public virtual void Initialize(List<Answer> answers)
+    public virtual void Initialize(List<Question> answers)
     {
         if (_documentData == null)
         {
@@ -20,15 +20,16 @@ public class Document : MonoBehaviour
             return;
         }
 
-        if (_documentData.answers.Count != answers.Count)
+        if (_documentData.questions.Count != answers.Count)
         {
-            Debug.LogError($"Answer count mismatch: {answers.Count} fields but {_documentData.answers.Count} data entries.", this);
+            Debug.LogError($"Answer count mismatch: {answers.Count} fields but {_documentData.questions.Count} data entries.", this);
             return;
         }
 
         for (int i = 0; i < answers.Count; i++)
         {
-            answers[i]._answerData = _documentData.answers[i];
+            answers[i]._questionData = _documentData.questions[i];
+            answers[i].SetQuestion(); 
 
             if (answers[i] is MultipleChoiceController mc)
                 mc.InitializeChoices();

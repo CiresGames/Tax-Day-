@@ -10,7 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: eac455b9569120946a9e8fe6062171b0, type: 3}
-  m_Name: TCP_9855_02
+  m_Name: TCP_9855_03
   m_EditorClassIdentifier: 
-  uid: TCP_9855_02
-  answer: Guatemala City
+  uid: TCP_9855_03
+  type: 1
+  question: 'Find the intruder : '
+  answer: John Deere 26 P-Tier Compact Excavator
+  choices:
+  - Apple
+  - Banana
+  - Strawberry
+  - John Deere 26 P-Tier Compact Excavator

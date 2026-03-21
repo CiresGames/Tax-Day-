@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: TCP_9855_01
   m_EditorClassIdentifier: 
   uid: TCP_9855_01
+  type: 0
+  question: Provide your tax payer number.
   answer: 123456789
+  choices: []

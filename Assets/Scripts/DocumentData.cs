@@ -7,7 +7,7 @@ public class DocumentData : ScriptableObject
 {
 
     public string uid;
-    public List<AnswerData> answers; 
+    public List<QuestionData> questions; 
 
         
 }

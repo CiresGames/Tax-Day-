@@ -1,21 +1,23 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class MultipleChoiceController : Answer
+public class MultipleChoiceController : Question
 {
+    
     [SerializeField] Toggle[] choices;
     [SerializeField] ToggleGroup toggleGroup;
     string selectedValue = string.Empty;
 
     public void InitializeChoices()
     {
-        if (_answerData?.choices == null) return;
+        if (_questionData?.choices == null) return;
 
         for (int i = 0; i < choices.Length; i++)
         {
             var label = choices[i].GetComponentInChildren<TMPro.TextMeshProUGUI>();
-            if (label != null && i < _answerData.choices.Count)
-                label.text = _answerData.choices[i];
+            if (label != null && i < _questionData.choices.Count)
+                label.text = _questionData.choices[i];
 
             choices[i].group = toggleGroup;
 

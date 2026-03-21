@@ -2,13 +2,14 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class InputFieldController : Answer
+public class InputFieldController : Question
 {
+    
     [SerializeField] TMP_InputField inputField;
 
     private void Start()
     {
-        LoadAnswer(); 
+        if(base._questionData != null) LoadAnswer(); 
         inputField.onSubmit.AddListener(SaveAnswer);
         inputField.onEndEdit.AddListener(SaveAnswer);
     }
