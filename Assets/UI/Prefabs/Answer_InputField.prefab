@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7703116565524498198}
   - component: {fileID: 3000377805278378537}
   m_Layer: 5
-  m_Name: Input_Field_Template
+  m_Name: Answer_InputField
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

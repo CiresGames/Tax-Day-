@@ -2,15 +2,13 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class InputFieldController : MonoBehaviour
+public class InputFieldController : Answer
 {
-    [SerializeField] string _inputName;
     [SerializeField] TMP_InputField inputField;
-    [SerializeField] string key;
-    [SerializeField] Image validationFeedback; 
 
     private void Start()
     {
+        LoadAnswer(); 
         inputField.onSubmit.AddListener(SaveAnswer);
         inputField.onEndEdit.AddListener(SaveAnswer);
     }
@@ -21,29 +19,15 @@ public class InputFieldController : MonoBehaviour
         inputField.onEndEdit.RemoveListener(SaveAnswer);
     }
 
-    public void EmptyField()
+    protected override string GetValue() => inputField.text;
+    protected override void SetValue(string value) => inputField.text = value;
+
+    public override void EmptyField()
     {
-        inputField.text = string.Empty;
-        ES3.DeleteKey(_inputName);
+        SetValue(string.Empty);
+        DeleteAnswer();
     }
 
-    public bool CompareInput()
-    {
-        if (inputField == null) return false;
-        if (string.IsNullOrEmpty(key)) return false;
-        return key == inputField.text.Trim();
-    }
-
-
-    public void SaveAnswer(string value)
-    {
-        if (!string.IsNullOrEmpty(value))
-            ES3.Save(_inputName, value);
-    }
-
-    public void LoadAnswer()
-    {
-        if (ES3.KeyExists(_inputName))
-            inputField.text = ES3.Load<string>(_inputName);
-    }
+   
+    
 }

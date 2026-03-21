@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a71399bbce1ff944faf697eee2d5e2e4, type: 3}
+  m_Name: Doc_TCP_9855_Ti
+  m_EditorClassIdentifier: 
+  uid: TCP-9855-Ti
+  answers:
+  - {fileID: 11400000, guid: 96b501092fecdd14ba426d9ea81122a4, type: 2}
+  - {fileID: 11400000, guid: fdcc91b1199528640beb2a340110ebf1, type: 2}
+  - {fileID: 11400000, guid: a178b2e549537e843924d7c822892091, type: 2}
